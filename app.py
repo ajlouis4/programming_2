@@ -1,8 +1,6 @@
 
 
-import os
-os.chdir(r'C:\Users\ajlou\Documents\MSBA')
-os.getcwd()
+
 import pandas as pd
 import numpy as np
 from sklearn.linear_model import LogisticRegression
